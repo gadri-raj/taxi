@@ -1,0 +1,263 @@
+{
+  "project_info": {
+    "project_number": "816381016611",
+    "firebase_url": "https://apna-samaj-bd432.firebaseio.com",
+    "project_id": "apna-samaj-bd432",
+    "storage_bucket": "apna-samaj-bd432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816381016611:android:c5cd91211fd6eecf5acf96",
+        "android_client_info": {
+          "package_name": "co.sandyedemo.ecomdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816381016611-ep8s9ncb2rojimvt7glnf0o8oq4ujrh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.sandyedemo.ecomdemo",
+            "certificate_hash": "1fc048d2cabe14063d12cd4626bc31187485bd7b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVNChxLkjqh8fS4CN2TcJ8WEhDdxw_954"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816381016611:android:ff5c80b2d93886115acf96",
+        "android_client_info": {
+          "package_name": "com.example.raj_e_commerce_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816381016611-kneimrmk2n2qupfiiccod80mvgthk83t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raj_e_commerce_flutter",
+            "certificate_hash": "1fc048d2cabe14063d12cd4626bc31187485bd7b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVNChxLkjqh8fS4CN2TcJ8WEhDdxw_954"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816381016611:android:357c1350f21c72875acf96",
+        "android_client_info": {
+          "package_name": "com.example.raj_instagram_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816381016611-sfapk0luura2l3n7aakffo90rul0gpb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raj_instagram_flutter",
+            "certificate_hash": "1fc048d2cabe14063d12cd4626bc31187485bd7b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVNChxLkjqh8fS4CN2TcJ8WEhDdxw_954"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816381016611:android:5cc2cc5547d8ba595acf96",
+        "android_client_info": {
+          "package_name": "com.iceka.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816381016611-tq4jbqu4k08offplkmvf1ncfi4sqqmqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iceka.whatsappclone",
+            "certificate_hash": "1fc048d2cabe14063d12cd4626bc31187485bd7b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVNChxLkjqh8fS4CN2TcJ8WEhDdxw_954"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816381016611:android:42114882501fedc05acf96",
+        "android_client_info": {
+          "package_name": "com.mittu.saavyas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816381016611-bp4j2tlbsr3f5oe61021n1vt1nl46klt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mittu.saavyas",
+            "certificate_hash": "1fc048d2cabe14063d12cd4626bc31187485bd7b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVNChxLkjqh8fS4CN2TcJ8WEhDdxw_954"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816381016611:android:e81b226814fad9da5acf96",
+        "android_client_info": {
+          "package_name": "com.raj.aceproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816381016611-ftb4u9ljj9kkist0em77plij2fj7ile6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raj.aceproject",
+            "certificate_hash": "1fc048d2cabe14063d12cd4626bc31187485bd7b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVNChxLkjqh8fS4CN2TcJ8WEhDdxw_954"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816381016611:android:dfe055496ab7b6605acf96",
+        "android_client_info": {
+          "package_name": "com.simcoder.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816381016611-6aol3tnkmbcvrb0jnaav83rm63mqjgqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simcoder.whatsappclone",
+            "certificate_hash": "1fc048d2cabe14063d12cd4626bc31187485bd7b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVNChxLkjqh8fS4CN2TcJ8WEhDdxw_954"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816381016611:android:c1a4dcc145bbb9de5acf96",
+        "android_client_info": {
+          "package_name": "group15.finalassignment.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816381016611-p447ocove3fuipqr70m0e7r2rpqgd6kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "group15.finalassignment.ecommerce",
+            "certificate_hash": "1fc048d2cabe14063d12cd4626bc31187485bd7b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVNChxLkjqh8fS4CN2TcJ8WEhDdxw_954"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816381016611:android:f325439603a6b9b65acf96",
+        "android_client_info": {
+          "package_name": "my.insta.androrealm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816381016611-918bh9eh67k060ombkmp1d70snjnri34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.insta.androrealm",
+            "certificate_hash": "1fc048d2cabe14063d12cd4626bc31187485bd7b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVNChxLkjqh8fS4CN2TcJ8WEhDdxw_954"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
